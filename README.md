@@ -106,7 +106,7 @@
 </tr>
 </table>
 
-<table width="250%">
+<table width="100%">
 <tr>
 <td>
 
@@ -116,7 +116,7 @@
 > thank you for visiting my terminal. stay curious, stay secure.
 ```
 
-</td>
+</td >
 </tr>
 </table >
 
