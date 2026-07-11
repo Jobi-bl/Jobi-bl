@@ -18,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td width="200" align="center">
+<td width="400" align="center">
 <img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
 </td>
 <td>
