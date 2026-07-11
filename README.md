@@ -49,7 +49,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/>
@@ -71,7 +70,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jobi-bl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobi-bl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobi-bl&layout=pie&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
 
 <br/>
 
@@ -83,22 +82,12 @@
 
 ## `> ls -la projects/`
 
-<div align="center">
-
-<a href="https://github.com/Jobi-bl/Vulnerability-Scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Jobi-bl/password-strength-analyser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Jobi-bl/LearnDeutsch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Jobi-bl/finance-Trackerr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-</a>
-
-</div>
+| Repo | Description | Stack |
+|---|---|---|
+| 🛡️ [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | Scans systems/networks for known vulnerabilities | `Python` |
+| 🔐 [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | Analyzes password strength in real-time | `HTML` |
+| 🇩🇪 [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German learning app (A1–C2 roadmap) | `TypeScript` |
+| 💰 [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | Personal finance tracking app | `JavaScript` |
 
 <br/>
 
@@ -106,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker-cat-github.gif" width="250"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="250"/>
 
 <br/><br/>
 
