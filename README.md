@@ -1,115 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Jobi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff41&height=200&section=header&text=root@jobi:~$%20whoami&fontSize=32&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cybersecurity%20Analyst&descAlignY=60&descColor=58A6FF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;AI+Governance+%2B+Security+Enthusiast;Building+a+Home+Lab+%F0%9F%A7%AA;Learning+Linux%2C+SIEM+%26+Pentesting;Currently+on+BreachLab+%22Ghost+Track%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+security_profile.sh...;Access+Granted+%E2%9C%93;BCA+Student+%7C+Cybersecurity+Enthusiast;Building+a+Home+Lab+%F0%9F%A7%AA;Currently+on+BreachLab+%22Ghost+Track%22" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="60"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/status-learning%20%26%20building-2c5364?style=for-the-badge&labelColor=0f2027"/>
-  <img src="https://img.shields.io/badge/focus-cybersecurity%20%2B%20AI%20governance-58A6FF?style=for-the-badge&labelColor=0f2027"/>
-</div>
+```
+[+] Target Acquired    : Career in Cybersecurity
+[+] Current Status     : Actively Learning & Building
+[+] Weapon of Choice   : Linux Terminal
+[+] Mission            : Bridge AI Governance & Security
+```
 
 <br/>
 
-## 🧑‍💻 About Me
+## `> whoami`
 
-- 🎓 College student based in **India**, working toward a career in **cybersecurity**
+- 🎓 **BCA Graduate Student** based in India, working toward a career in **cybersecurity**
 - 🛡️ Currently building hands-on skills through a home lab — **Wazuh SIEM**, **Suricata**, **Kali Linux**
 - 🕵️ Working through **BreachLab**, **OverTheWire Bandit**, **picoCTF**, and **pwn.college**
-- 📜 Preparing for **CompTIA Security+** and **Google Cybersecurity Certificate**
+- 🎯 Sharpening practical skills on **TryHackMe** and **HackTheBox**
 - 🧭 Interested in the intersection of **AI Governance** and **security**
 - 🌍 Also into gaming, photography editing, and language learning (built a German learning app!)
 - ⚡ Fun fact: I like breaking things on purpose so I can learn how to defend them
 
 <br/>
 
-## 🛠️ Tech Stack
+## `> cat tech_stack.txt`
 
 <div align="center">
 
-### Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/>
 
-### Security & Infra
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-3AAFDA?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<br/>
 
-### Frameworks & Tools
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## `> ./run_stats.sh`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jobi-bl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobi-bl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jobi-bl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobi-bl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobi-bl&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobi-bl&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobi-bl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## `> ls -la projects/`
 
 <div align="center">
 
 <a href="https://github.com/Jobi-bl/Vulnerability-Scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Jobi-bl/password-strength-analyser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Jobi-bl/LearnDeutsch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Jobi-bl/finance-Trackerr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🌐 Connect With Me
+## `> cat contact.txt`
 
 <div align="center">
 
-<!-- Update these links with your real profiles -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jobi-b-l">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<div align="center">
+
+```
+> connection_status: online
+> access_level: guest
+> thank you for visiting my terminal. stay curious, stay secure.
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=100&section=footer" width="100%"/>
