@@ -1,0 +1,43 @@
+name: Update Projects Table
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually too
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch repos and rebuild table
+        run: |
+          USERNAME="Jobi-bl"
+          TABLE="| Repo | Description | Stack |\n|---|---|---|\n"
+
+          REPOS=$(curl -s "https://api.github.com/users/$USERNAME/repos?per_page=100&sort=created" \
+            | jq -r '.[] | select(.fork==false) | [.name, (.description // "No description"), (.language // "N/A")] | @tsv')
+
+          while IFS=$'\t' read -r name desc lang; do
+            TABLE="${TABLE}| [$name](https://github.com/$USERNAME/$name) | $desc | \`$lang\` |\n"
+          done <<< "$REPOS"
+
+          awk -v table="$TABLE" '
+            /<!--PROJECTS-START-->/ {print; printf "%s", table; found=1; next}
+            /<!--PROJECTS-END-->/ {found=0}
+            !found {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update projects table"
+          git push
