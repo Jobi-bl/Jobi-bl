@@ -101,12 +101,13 @@
 <table width="100%">
 <tr>
 <td>
-```
-> connection_status: online
-> access_level: guest
+
 > thank you for visiting my terminal. stay curious, stay secure.
-```
 
 </td>
 </tr>
-</table> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=100&section=footer" width="100%"/>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=100&section=footer" width="100%"/>
+
+</td>
+</tr>
