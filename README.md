@@ -73,14 +73,14 @@
 | Repo | Description | Stack |
 |---|---|---|
 | [home-soc-lab](https://github.com/Jobi-bl/home-soc-lab) | Home-built SOC lab (Wazuh, Kali, Ubuntu) for hands-on detection engineering practice real attacks, real alerts, documented as I learn. | `N/A` |
-| [Secure-login-system-](https://github.com/Jobi-bl/Secure-login-system-) | No description | `Python` |
-| [Phishing-email-detection-model](https://github.com/Jobi-bl/Phishing-email-detection-model) | No description | `Python` |
-| [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | No description | `Python` |
-| [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | No description | `HTML` |
-| [Exam-Master-Interactive](https://github.com/Jobi-bl/Exam-Master-Interactive) | Repository for https://replit.com/@makemerichhasf/Exam-Master-Interactive | `TypeScript` |
-| [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German Learning  | `TypeScript` |
-| [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | No description | `JavaScript` |
-| [Jobi-bl](https://github.com/Jobi-bl/Jobi-bl) | Config files for my GitHub profile. | `N/A` |
+| [Secure-login-system-](https://github.com/Jobi-bl/Secure-login-system-) | A secure authentication system featuring user registration, login, password hashing, JWT authentication, and role-based access control with modern security best practices. | `Python` |
+| [Phishing-email-detection-model](https://github.com/Jobi-bl/Phishing-email-detection-model) | Machine learning model for detecting phishing emails using natural language processing and email feature analysis. | `Python` |
+| [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | Python-based vulnerability scanner that identifies common security weaknesses and generates actionable security reports. | `Python` |
+| [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | Web application that evaluates password strength using entropy, complexity checks, and security best practices. | `HTML` |
+| [Exam-Master-Interactive](https://github.com/Jobi-bl/Exam-Master-Interactive) | Interactive exam preparation platform with quizzes, progress tracking, and an intuitive learning interface. | `TypeScript` |
+| [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | AI-powered German learning platform with interactive lessons, quizzes, and language practice from A1 to C2. | `TypeScript` |
+| [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | Personal finance tracker for managing income, expenses, budgeting, and financial insights. | `JavaScript` |
+| [Jobi-bl](https://github.com/Jobi-bl/Jobi-bl) | Configuration repository for my GitHub profile, README, and portfolio customization. | `N/A` |
 <!--PROJECTS-END-->
 
 ## `> cat contact.txt`
