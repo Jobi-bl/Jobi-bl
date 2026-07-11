@@ -12,38 +12,24 @@
 
 <br/><br/>
 
-</div>
-<table width="100%">
-  <tr>
-    <td width="220" align="center" valign="top">
-      <img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
-    </td>
+<table>
+<tr>
+<td width="220" align="center">
+<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180">
+</td>
 
-    <td width="100%" valign="top">
+<td>
+
 <pre>
 [+] Target Acquired    : Career in Cybersecurity
 [+] Current Status     : Actively Learning & Building
 [+] Weapon of Choice   : Linux Terminal
 [+] Mission            : Bridge AI Governance & Security
 </pre>
-    </td>
-  </tr>
-</table>
-
-<br/>
-```
-[+] Target Acquired    : Career in Cybersecurity
-[+] Current Status     : Actively Learning & Building
-[+] Weapon of Choice   : Linux Terminal
-[+] Mission            : Bridge AI Governance & Security
-```
 
 </td>
 </tr>
 </table>
-
-<br/>
-
 ## `> whoami`
 
 - 🎓 **BCA Graduate Student** based in India, working toward a career in **cybersecurity**
