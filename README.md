@@ -16,13 +16,12 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="200"/>
-
-</div>
-
-<br/>
+<table>
+<tr>
+<td width="200">
+<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
+</td>
+<td>
 
 ```
 [+] Target Acquired    : Career in Cybersecurity
@@ -30,6 +29,10 @@
 [+] Weapon of Choice   : Linux Terminal
 [+] Mission            : Bridge AI Governance & Security
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -102,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="250"/>
+<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
 
 <br/><br/>
 
