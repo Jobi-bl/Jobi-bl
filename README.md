@@ -10,15 +10,15 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="60"/>
 
+<br/><br/>
+
+<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
+
 </div>
 
 <div align="center">
 
-```
-       /\_/\
-      ( o.o )   cat sudo.exe
-       > ^ <    ~ probing your permissions ~
-```
+<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="200"/>
 
 </div>
 
@@ -76,18 +76,25 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobi-bl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobi-bl&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff"/>
+
 </div>
 
 <br/>
 
 ## `> ls -la projects/`
 
-| Repo | Description | Stack |
-|---|---|---|
-| 🛡️ [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | Scans systems/networks for known vulnerabilities | `Python` |
-| 🔐 [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | Analyzes password strength in real-time | `HTML` |
-| 🇩🇪 [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German learning app (A1–C2 roadmap) | `TypeScript` |
-| 💰 [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | Personal finance tracking app | `JavaScript` |
+<div align="center">
+
+<a href="https://github.com/Jobi-bl/Vulnerability-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=dark" height="150"/></a>
+<a href="https://github.com/Jobi-bl/password-strength-analyser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=dark" height="150"/></a>
+
+<a href="https://github.com/Jobi-bl/LearnDeutsch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=dark" height="150"/></a>
+<a href="https://github.com/Jobi-bl/finance-Trackerr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=dark" height="150"/></a>
+
+</div>
 
 <br/>
 
@@ -95,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif](https://tenor.com/GXUb.gif" width="250"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="250"/>
 
 <br/><br/>
 
