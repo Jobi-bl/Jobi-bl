@@ -12,6 +12,16 @@
 
 </div>
 
+<div align="center">
+
+```
+       /\_/\
+      ( o.o )   cat sudo.exe
+       > ^ <    ~ probing your permissions ~
+```
+
+</div>
+
 <br/>
 
 ```
@@ -39,12 +49,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20LLMs-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/>
 
 <br/>
 
@@ -78,16 +86,16 @@
 <div align="center">
 
 <a href="https://github.com/Jobi-bl/Vulnerability-Scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Jobi-bl/password-strength-analyser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Jobi-bl/LearnDeutsch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/Jobi-bl/finance-Trackerr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 </a>
 
 </div>
@@ -97,6 +105,10 @@
 ## `> cat contact.txt`
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker-cat-github.gif" width="250"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/jobi-b-l">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
