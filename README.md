@@ -16,7 +16,7 @@
 
 </div>
 
-<table width="100%">
+<table width="400%">
 <tr>
 <td width="200" align="center">
 <img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
