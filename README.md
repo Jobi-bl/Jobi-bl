@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
+
 
 </div>
 
