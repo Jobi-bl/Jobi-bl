@@ -106,7 +106,7 @@
 </tr>
 </table>
 
-<table width="100%">
+<table width="250%">
 <tr>
 <td>
 
@@ -118,6 +118,6 @@
 
 </td>
 </tr>
-</table>
+</table >
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=100&section=footer" width="100%"/>
