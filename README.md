@@ -12,24 +12,30 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td width="220" align="center">
-<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180">
-</td>
+<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
 
+</div>
+
+<table width="100%">
+<tr>
+<td width="200" align="center">
+<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
+</td>
 <td>
 
-<pre>
+```
 [+] Target Acquired    : Career in Cybersecurity
 [+] Current Status     : Actively Learning & Building
 [+] Weapon of Choice   : Linux Terminal
 [+] Mission            : Bridge AI Governance & Security
-</pre>
+```
 
 </td>
 </tr>
 </table>
+
+<br/>
+
 ## `> whoami`
 
 - 🎓 **BCA Graduate Student** based in India, working toward a career in **cybersecurity**
@@ -86,15 +92,10 @@
 <!--PROJECTS-START-->
 | Repo | Description | Stack |
 |---|---|---|
-| [home-soc-lab](https://github.com/Jobi-bl/home-soc-lab) | Home-built SOC lab (Wazuh, Kali, Ubuntu) for hands-on detection engineering practice real attacks, real alerts, documented as I learn. | `N/A` |
-| [Secure-login-system-](https://github.com/Jobi-bl/Secure-login-system-) | No description | `Python` |
-| [Phishing-email-detection-model](https://github.com/Jobi-bl/Phishing-email-detection-model) | No description | `Python` |
-| [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | No description | `Python` |
-| [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | No description | `HTML` |
-| [Exam-Master-Interactive](https://github.com/Jobi-bl/Exam-Master-Interactive) | Repository for https://replit.com/@makemerichhasf/Exam-Master-Interactive | `TypeScript` |
-| [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German Learning  | `TypeScript` |
-| [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | No description | `JavaScript` |
-| [Jobi-bl](https://github.com/Jobi-bl/Jobi-bl) | Config files for my GitHub profile. | `N/A` |
+| 🛡️ [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | Scans systems/networks for known vulnerabilities | `Python` |
+| 🔐 [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | Analyzes password strength in real-time | `HTML` |
+| 🇩🇪 [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German learning app (A1–C2 roadmap) | `TypeScript` |
+| 💰 [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | Personal finance tracking app | `JavaScript` |
 <!--PROJECTS-END-->
 
 <br/>
