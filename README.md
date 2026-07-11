@@ -12,11 +12,9 @@
 
 <br/><br/>
 
-<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
-
 </div>
 
-<table width="200%">
+<table width="400%">
 <tr>
 <td width="200" align="center">
 <img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
