@@ -6,7 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+security_profile.sh...;Access+Granted+%E2%9C%93;BCA+Student+%7C+Cybersecurity+Enthusiast;Building+a+Home+Lab+%F0%9F%A7%AA;Currently+on+BreachLab+%22Ghost+Track%22" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="60"/>
+
+<br/><br/>
+
+
 
 </div>
 
@@ -28,6 +34,8 @@
 </tr>
 </table>
 
+<br/>
+
 ## `> whoami`
 
 - 🎓 **BCA Graduate Student** based in India, working toward a career in **cybersecurity**
@@ -38,56 +46,59 @@
 - 🌍 Also into gaming, photography editing, and language learning (built a German learning app!)
 - ⚡ Fun fact: I like breaking things on purpose so I can learn how to defend them
 
+<br/>
+
 ## `> cat tech_stack.txt`
 
-<table width="100%">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00FF41"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=00FF41"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41"/></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00FF41"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41"/>
+
+</div>
+
+<br/>
 
 ## `> ./run_stats.sh`
 
-<table width="100%">
-  <tr>
-    <td align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Jobi-bl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/></td>
-    <td align="center"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobi-bl&layout=pie&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobi-bl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobi-bl&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff"/></td>
-  </tr>
-</table>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jobi-bl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobi-bl&layout=pie&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobi-bl&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobi-bl&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff"/>
+
+</div>
+
+<br/>
 
 ## `> ls -la projects/`
 
 <!--PROJECTS-START-->
 | Repo | Description | Stack |
 |---|---|---|
-| [home-soc-lab](https://github.com/Jobi-bl/home-soc-lab) | Home-built SOC lab (Wazuh, Kali, Ubuntu) for hands-on detection engineering practice real attacks, real alerts, documented as I learn. | `N/A` |
-| [Secure-login-system-](https://github.com/Jobi-bl/Secure-login-system-) | No description | `Python` |
-| [Phishing-email-detection-model](https://github.com/Jobi-bl/Phishing-email-detection-model) | No description | `Python` |
-| [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | No description | `Python` |
-| [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | No description | `HTML` |
-| [Exam-Master-Interactive](https://github.com/Jobi-bl/Exam-Master-Interactive) | Repository for https://replit.com/@makemerichhasf/Exam-Master-Interactive | `TypeScript` |
-| [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German Learning  | `TypeScript` |
-| [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | No description | `JavaScript` |
-| [Jobi-bl](https://github.com/Jobi-bl/Jobi-bl) | Config files for my GitHub profile. | `N/A` |
+| 🛡️ [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | Scans systems/networks for known vulnerabilities | `Python` |
+| 🔐 [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | Analyzes password strength in real-time | `HTML` |
+| 🇩🇪 [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German learning app (A1–C2 roadmap) | `TypeScript` |
+| 💰 [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | Personal finance tracking app | `JavaScript` |
 <!--PROJECTS-END-->
+
+<br/>
 
 ## `> cat contact.txt`
 
@@ -105,6 +116,8 @@
 </td>
 </tr>
 </table>
+
+<br/>
 
 <table width="100%">
 <tr>
