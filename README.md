@@ -106,7 +106,7 @@
 </tr>
 </table>
 
-<table width="100%">
+<table width="250%">
 <tr>
 <td>
 
