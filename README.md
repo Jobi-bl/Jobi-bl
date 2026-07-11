@@ -12,13 +12,13 @@
 
 <br/><br/>
 
-
+<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="200">
+<td width="200" align="center">
 <img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
 </td>
 <td>
@@ -89,35 +89,39 @@
 
 ## `> ls -la projects/`
 
-<div align="center">
-
-<a href="https://github.com/Jobi-bl/Vulnerability-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=Vulnerability-Scanner&theme=dark" height="150"/></a>
-<a href="https://github.com/Jobi-bl/password-strength-analyser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=password-strength-analyser&theme=dark" height="150"/></a>
-
-<a href="https://github.com/Jobi-bl/LearnDeutsch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=LearnDeutsch&theme=dark" height="150"/></a>
-<a href="https://github.com/Jobi-bl/finance-Trackerr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobi-bl&repo=finance-Trackerr&theme=dark" height="150"/></a>
-
-</div>
+<!--PROJECTS-START-->
+| Repo | Description | Stack |
+|---|---|---|
+| 🛡️ [Vulnerability-Scanner](https://github.com/Jobi-bl/Vulnerability-Scanner) | Scans systems/networks for known vulnerabilities | `Python` |
+| 🔐 [password-strength-analyser](https://github.com/Jobi-bl/password-strength-analyser) | Analyzes password strength in real-time | `HTML` |
+| 🇩🇪 [LearnDeutsch](https://github.com/Jobi-bl/LearnDeutsch) | Free German learning app (A1–C2 roadmap) | `TypeScript` |
+| 💰 [finance-Trackerr](https://github.com/Jobi-bl/finance-Trackerr) | Personal finance tracking app | `JavaScript` |
+<!--PROJECTS-END-->
 
 <br/>
 
 ## `> cat contact.txt`
 
-<div align="center">
-
-<img src="https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif" width="220"/>
-
-<br/><br/>
+<table width="100%">
+<tr>
+<td width="200" align="center">
+<img src="https://media1.tenor.com/m/3nYNsXM6yjcAAAAC/coco.gif" width="180"/>
+</td>
+<td align="center">
 
 <a href="https://www.linkedin.com/in/jobi-b-l">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td>
 
 ```
 > connection_status: online
@@ -125,6 +129,8 @@
 > thank you for visiting my terminal. stay curious, stay secure.
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=100&section=footer" width="100%"/>
