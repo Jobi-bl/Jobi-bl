@@ -68,6 +68,7 @@
 <!--PROJECTS-START-->
 | Repo | Description | Stack |
 |---|---|---|
+| [file-encryption-decryption-tool](https://github.com/Jobi-bl/file-encryption-decryption-tool) | this is a mini project | `Python` |
 | [Portfolio-Website](https://github.com/Jobi-bl/Portfolio-Website) | https://jobisec.vercel.app/ | `CSS` |
 | [home-soc-lab](https://github.com/Jobi-bl/home-soc-lab) | Home-built SOC lab (Wazuh, Kali, Ubuntu) for hands-on detection engineering practice real attacks, real alerts, documented as I learn. | `N/A` |
 | [Secure-login-system-](https://github.com/Jobi-bl/Secure-login-system-) | A secure authentication system featuring user registration, login, password hashing, JWT authentication, and role-based access control with modern security best practices. | `Python` |
